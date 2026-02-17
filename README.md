@@ -154,16 +154,16 @@ This system was built for academic learning and demonstration of DBMS concepts a
 ![Department](screenshots/academic-db(department).png)
 
 ### ⚙️ XAMPP Control Panel
-![XAMPP](screenshots/XAMPP control panel.png)
+![XAMPP](screenshots/XAMPP-control-panel.png)
 
 ### 🔄 Normalization (2NF, 3NF)
-![Normalization](screenshots/Normalization(2nf, 3nf).png)
+![Normalization](screenshots/Normalization(2nf,3nf).png)
 
 ### 🔄 Normalization (4NF, 5NF)
 ![Normalization Advanced](screenshots/Normalization(4nf,5nf).png)
 
 ### 🔁 Concurrency Demo
-![Concurrency](screenshots/Concurrency-Demo(based on each mem...).png)
+![Concurrency](screenshots/Concurrency-Demo.png)
 
 ### 📊 Student Table
 ![Student Table](screenshots/student-db(students).png)
