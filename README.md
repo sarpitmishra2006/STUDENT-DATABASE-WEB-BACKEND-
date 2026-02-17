@@ -131,6 +131,54 @@ This project demonstrates:
 This system was built for academic learning and demonstration of DBMS concepts along with real-time student data management functionality.
 
 ---
+---
+
+## 📸 Screenshots
+
+### 🏠 Main Page
+![Main Page](screenshots/Main-page1.png)
+
+### 📋 Student List
+![Student List](screenshots/Student-list.png)
+
+### 🗄️ Student Database
+![Student Database](screenshots/student-db.png)
+
+### 🏫 Academic Database
+![Academic Database](screenshots/academic-db.png)
+
+### 🧾 Academic Courses Table
+![Courses](screenshots/academic-db(courses).png)
+
+### 🏢 Academic Department Table
+![Department](screenshots/academic-db(department).png)
+
+### ⚙️ XAMPP Control Panel
+![XAMPP](screenshots/XAMPP control panel.png)
+
+### 🔄 Normalization (2NF, 3NF)
+![Normalization](screenshots/Normalization(2nf, 3nf).png)
+
+### 🔄 Normalization (4NF, 5NF)
+![Normalization Advanced](screenshots/Normalization(4nf,5nf).png)
+
+### 🔁 Concurrency Demo
+![Concurrency](screenshots/Concurrency-Demo(based on each mem...).png)
+
+### 📊 Student Table
+![Student Table](screenshots/student-db(students).png)
+
+---
+
+## 🧠 Concepts Demonstrated
+
+- Database Design
+- Data Normalization
+- Relational Database Management
+- Backend Development using PHP
+- CRUD Application Architecture
+- Multi-Database Handling
+- Concurrency Control Basics
 
 ---
 
